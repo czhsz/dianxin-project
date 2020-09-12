@@ -1,6 +1,15 @@
+/*
+ * @Author: your name
+ * @Date: 2020-09-11 15:58:15
+ * @LastEditTime: 2020-09-12 19:33:08
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \dianxin-project\webpack.config.js
+ */
 const path = require('path')
 const webpack = require('webpack')
 
+//做一次修改
 module.exports = {
     mode:'development',
     entry:'./src/index.js',
